@@ -40,6 +40,7 @@ This repository contains data analytics tasks focused on data cleaning, explorat
 
 
 
+
 # Data Analytics Project Portfolio
 
 This repository contains three foundational data analytics projects covering unsupervised machine learning, forecasting, and predictive modeling.
@@ -78,4 +79,4 @@ This repository contains three foundational data analytics projects covering uns
 * *Language*: Python
 * *Libraries*: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 * *Environment*: Jupyter Notebook
-*
+
